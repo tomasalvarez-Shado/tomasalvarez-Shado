@@ -1,8 +1,13 @@
 # 👋 Hello, soy Tomás Álvarez Rodríguez
-
-🎓 Estudiante de Ingeniería Industrial en la Universidad de Antioquia  
+ 
+🎓 **Estudiante de Ingeniería Industrial - Universidad de Antioquia**  
 🛡️ Analista de Ciberseguridad en formación  
 📍 Medellín, Colombia
+🧠 **Rol:** Líder académico y técnico, facilitador de talleres educativos  
+📍 **Semestre:** [3°]  
+🔐 **Enfoque actual:** Automatización colaborativa, ciberseguridad educativa, liderazgo intergeneracional  
+💬 **Frase que inspira:** *"La excelencia no es un acto, sino un hábito que se cultiva en comunidad."*  
+
 
 ---
 ## 🎯 Sobre mí como estudiante
